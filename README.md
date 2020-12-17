@@ -15,8 +15,6 @@ The program intercepts and pretends to be a kahoot client. After receiving quiz 
     - `brew install python`
   - You probably have (or know how to install) python if you're on Linux. If not, good luck.
 - [ ] Download and unzip or clone this repo
-  - https://github.com/Raymo111/kahoot-answer-bot/archive/master.zip
-  - `git clone https://github.com/Raymo111/kahoot-answer-bot.git`
 - [ ] Install Dependencies
   - `python3 -m pip install -r requirements.txt`
 
